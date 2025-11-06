@@ -86,7 +86,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** [thanhpham.dev@gmail.com](mailto:phamthanh2522004@gmail.com)  
+- 📧 **Email:** [phamthanh2522004@gmail.com](mailto:phamthanh2522004@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/thanhphammmm](https://www.linkedin.com/in/th%C3%A0nh-ph%E1%BA%A1m-436b22251/)
 
 ---
