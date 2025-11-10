@@ -9,18 +9,18 @@
 🔹 Specialized in **OpenWrt**, **Qualcomm SoC**, and **IoT Gateway Systems**  
 🔹 Experienced with **STM32**, **Linux kernel driver integration**, and **system optimization**  
 🔹 Enthusiastic about **network stack performance** and **secure communication protocols**  
-🔹 Currently exploring **real-time networking and ARM-based embedded optimization**
+🔹 Exploring **real-time networking, multiprocessing, and ARM-based embedded optimization**
 
 ---
 
-### 💻 Skills & Technologies
+## 💻 Skills & Technologies
 
 <!-- Languages -->
 <h4 align="center">🧩 Programming Languages & Core Skills</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20C-007396?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
@@ -29,7 +29,7 @@
 <h4 align="center">⚙️ Embedded Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenWrt-00ADEF?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white" />
@@ -47,21 +47,26 @@
   <img src="https://img.shields.io/badge/Ethernet-228B22?style=for-the-badge&logo=ethernet&logoColor=white" />
 </p>
 
-<!-- Peripheral Modules -->
-<h4 align="center">⚙️ Peripheral Modules</h4>
+<!-- Hardware Abstraction -->
+<h4 align="center">⚙️ Hardware Abstraction & System Features</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Timer-FF8C00?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/PWM-FF4500?style=for-the-badge&logo=wave&logoColor=white" />
   <img src="https://img.shields.io/badge/ADC-1E90FF?style=for-the-badge&logo=analogdevices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interrupts-800080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DMA-4682B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Low Power-708090?style=for-the-badge&logo=battery&logoColor=white" />
 </p>
 
-<!-- Core Features -->
-<h4 align="center">🧠 Core Features</h4>
+<!-- System Programming -->
+<h4 align="center">🧩 System Programming</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Interrupts-800080?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/DMA-4682B4?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-2E8B57?style=for-the-badge&logo=freebsd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Low Power-708090?style=for-the-badge&logo=battery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process%20Management-556B2F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threading%20%26%20Multithreading-9932CC?style=for-the-badge&logo=threadless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synchronization%20%26%20Mutex-8B0000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSIX%20API-006400?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPC%20(Pipes%2C%20Shared%20Memory)-191970?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 </p>
 
 <!-- Networking -->
@@ -86,7 +91,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thanhphammmm&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanhphammmm&theme=tokyonight" height="160" />
@@ -94,19 +99,19 @@
 
 ---
 
-### 🧩 Languages Overview
+## 🧩 Languages Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhphammmm&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 - 📧 **Email:** [phamthanh2522004@gmail.com](mailto:phamthanh2522004@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/thanhphammmm](https://www.linkedin.com/in/th%C3%A0nh-ph%E1%BA%A1m-436b22251/)
 
 ---
 
 <p align="center">
-  <i>“Building reliable embedded systems and robust network solutions, one line of code at a time.”</i>
+  <i>“Building reliable embedded systems and robust network solutions — one line of code at a time.”</i>
 </p>
