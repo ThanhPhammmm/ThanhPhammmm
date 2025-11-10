@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/UART-4B8BBE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SPI-008080?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/I2C-006400?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAN-2F4F4F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethernet-228B22?style=for-the-badge&logo=ethernet&logoColor=white" />
 </p>
 
@@ -54,8 +53,6 @@
   <img src="https://img.shields.io/badge/Timer-FF8C00?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/PWM-FF4500?style=for-the-badge&logo=wave&logoColor=white" />
   <img src="https://img.shields.io/badge/ADC-1E90FF?style=for-the-badge&logo=analogdevices&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAC-00BFFF?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Watchdog-DC143C?style=for-the-badge&logo=guardian&logoColor=white" />
 </p>
 
 <!-- Core Features -->
